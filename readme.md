@@ -13,32 +13,34 @@
 4. Sitúate en el directorio practica1 y edita los archivos a tu gusto. Una vez editados los ficheros, haz un git status para ver que ha pasado con los ficheros. Finalmente, haz un commit para subir los cambios al repositorio local  
    
     Entrar al directorio y editar los ficheros:  
-    ![❌ Error ❌](./img/Captura3.JPG "ramas-practica01")
-    ![❌ Error ❌](./img/Captura4.JPG "ramas-practica01")
-    ![❌ Error ❌](./img/Captura5.JPG "ramas-practica01")  
+    ![❌ Error ❌](./img/Captura3.JPG "ramas-directorio")
+    ![❌ Error ❌](./img/Captura4.JPG "ramas-directorio")
+    ![❌ Error ❌](./img/Captura5.JPG "ramas-directorio")  
 
     $ git status:  
-    ![❌ Error ❌](./img/Captura6.JPG "ramas-practica01")  
+    ![❌ Error ❌](./img/Captura6.JPG "ramas-status")  
     
     Commit de los cambios:
 
-    ![❌ Error ❌](./img/Captura7.JPG "ramas-practica01")
+    ![❌ Error ❌](./img/Captura7.JPG "ramas-Commit1")
 
 5. Crea una rama nueva, llámala practica1_APELLIDOS_NOMBRE
 6. Muévete a la rama que has creado (practica1_APELLIDOS_NOMBRE)
    
       
-    ![❌ Error ❌](./img/Captura8.JPG "ramas-practica01")
+    ![❌ Error ❌](./img/Captura8.JPG "ramas-ppractica1_APELLIDOS_NOMBRE")
 
 7. En el directorio raíz, crea el fichero practica1_APELLIDOS_NOMBRE.txt y cualquier cosa en su interior. Y haz un commit de los cambios.  
-    ![❌ Error ❌](./img/Captura9.JPG "ramas-practica01")
-    ![❌ Error ❌](./img/Captura10.JPG "ramas-practica01")
+    ![❌ Error ❌](./img/Captura9.JPG "practica1_APELLIDOS_NOMBRE.txt")
+    ![❌ Error ❌](./img/Captura10.JPG "practica1_APELLIDOS_NOMBRE.txt")
 
 8. ¡Nos hemos equivocado! Queremos que en el interior del fichero practica1_APELLIDOS_NOMBRE.txt tendremos que poner nuestro nombre y apellidos. Vuelve a hacer otro commit revirtiendo los cambios (haciendo un nuevo commit) y sube los cambios al repositorio remoto ¿Qué está pasando? ¿Cómo lo solucionarias? ¿Tienes los permisos para escribir en dicho repositorio? ¿Existe posibilidad de arreglarlo? 
     TIP: Elimina el remote actual y añade el de un remote de un repositorio nuevo en tu cuenta ya así si que tendrás permisos para escribirlo
-    
-    ![❌ Error ❌](./img/Captura11.JPG "ramas-practica01")
 
+    ![❌ Error ❌](./img/Captura11.JPG "txt")
+    ![❌ Error ❌](./img/Captura12.JPG "txt")
+
+    No es posible ya que no tenemos permisos para editar ese directorio, ya que no tenemos las credenciales.
 
 9.  Vuelve a la rama “practica1”.
 10. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1
