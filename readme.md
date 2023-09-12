@@ -25,13 +25,21 @@
     ![❌ Error ❌](./img/Captura7.JPG "ramas-practica01")
 
 5. Crea una rama nueva, llámala practica1_APELLIDOS_NOMBRE
+6. Muévete a la rama que has creado (practica1_APELLIDOS_NOMBRE)
    
+      
     ![❌ Error ❌](./img/Captura8.JPG "ramas-practica01")
 
-6. Muévete a la rama que has creado (practica1_APELLIDOS_NOMBRE)
-7. En el directorio raíz, crea el fichero practica1_APELLIDOS_NOMBRE.txt y cualquier cosa en su interior. Y haz un commit de los cambios.
+7. En el directorio raíz, crea el fichero practica1_APELLIDOS_NOMBRE.txt y cualquier cosa en su interior. Y haz un commit de los cambios.  
+    ![❌ Error ❌](./img/Captura9.JPG "ramas-practica01")
+    ![❌ Error ❌](./img/Captura10.JPG "ramas-practica01")
+
 8. ¡Nos hemos equivocado! Queremos que en el interior del fichero practica1_APELLIDOS_NOMBRE.txt tendremos que poner nuestro nombre y apellidos. Vuelve a hacer otro commit revirtiendo los cambios (haciendo un nuevo commit) y sube los cambios al repositorio remoto ¿Qué está pasando? ¿Cómo lo solucionarias? ¿Tienes los permisos para escribir en dicho repositorio? ¿Existe posibilidad de arreglarlo? 
     TIP: Elimina el remote actual y añade el de un remote de un repositorio nuevo en tu cuenta ya así si que tendrás permisos para escribirlo
+    
+    ![❌ Error ❌](./img/Captura11.JPG "ramas-practica01")
+
+
 9.  Vuelve a la rama “practica1”.
 10. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1
 11. Añade dentro de la rama de tu carpeta todas los comandos que has utilizado. Puedes crear un documento por ejemplo de Word.
