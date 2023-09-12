@@ -40,10 +40,13 @@
     ![❌ Error ❌](./img/Captura11.JPG "txt")
     ![❌ Error ❌](./img/Captura12.JPG "txt")
 
-    No es posible ya que no tenemos permisos para editar ese directorio, ya que no tenemos las credenciales.
-
-9.  Vuelve a la rama “practica1”.
-10. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1
+    No es posible, ya que no tenemos permisos para editar ese directorio, porque no tenemos las credenciales.
+    ![❌ Error ❌](./img/Captura13.JPG "txt")
+    
+9.  Vuelve a la rama “practica1”.  
+    ![❌ Error ❌](./img/Captura14.JPG "txt")  
+10. Haz un merge de tu rama (practica1_APELLIDOS_NOMBRE) con practica1  
+    ![❌ Error ❌](./img/Captura15.JPG "txt")
 11. Añade dentro de la rama de tu carpeta todas los comandos que has utilizado. Puedes crear un documento por ejemplo de Word.
 ---
 ## Ejercicio de como trabajar con Git desde un IDE
