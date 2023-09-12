@@ -1,8 +1,15 @@
 # Práctica
 ## Ejercicio de Git bash
 1. Clona el repositorio https://github.com/DavidBernalGonzalez/practicaGit.git
-2. Visualiza las distintas ramas que hay en el repositorio.
+2. Visualiza las distintas ramas que hay en el repositorio.   
+    mediante el comando:   
+    $ git branch -a    
+![❌ Error ❌](./img/Captura1.JPG "ramas")
+
 3. Dentro del repositorio hay una carpeta llamada practica01, la encontrarás en la rama “practica01”. Sitúate en rama "practica01" para ver la carpeta practica01.
+   
+    ![❌ Error ❌](./img/Captura2.JPG "ramas-practica01")
+    
 4. Sitúate en el directorio practica1 y edita los archivos a tu gusto. Una vez editados los ficheros, haz un git status para ver que ha pasado con los ficheros. Finalmente, haz un commit para subir los cambios al repositorio local
 5. Crea una rama nueva, llámala practica1_APELLIDOS_NOMBRE
 6. Muévete a la rama que has creado (practica1_APELLIDOS_NOMBRE)
